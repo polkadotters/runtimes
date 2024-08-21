@@ -3,8 +3,10 @@
   "id": "paseo-bridge-hub",
   "chainType": "Live",
   "bootNodes": [
-	"/dns/bridge-hub-paseo-boot-ng.dwellir.com/tcp/443/wss/p2p/12D3KooWC85x6r1m2TBByZncN6HWH1yALBHwvrYgMA3o78GphCCv",
-        "/dns/bridge-hub-paseo-boot-ng.dwellir.com/tcp/30360/p2p/12D3KooWC85x6r1m2TBByZncN6HWH1yALBHwvrYgMA3o78GphCCv"
+	  "/dns/bridge-hub-paseo-boot-ng.dwellir.com/tcp/443/wss/p2p/12D3KooWC85x6r1m2TBByZncN6HWH1yALBHwvrYgMA3o78GphCCv",
+    "/dns/bridge-hub-paseo-boot-ng.dwellir.com/tcp/30360/p2p/12D3KooWC85x6r1m2TBByZncN6HWH1yALBHwvrYgMA3o78GphCCv",
+    "/dns/bridge-hub-paseo.bootnodes.polkadotters.com/tcp/30389/p2p/12D3KooWFfbjVQpewgZrMzAKZnKUbfrtpQhtJ2RWqu9gFdDPPGLR",
+    "/dns/bridge-hub-paseo.bootnodes.polkadotters.com/tcp/30391/wss/p2p/12D3KooWFfbjVQpewgZrMzAKZnKUbfrtpQhtJ2RWqu9gFdDPPGLR"
   ],
   "telemetryEndpoints": null,
   "protocolId": "bh-pas",
